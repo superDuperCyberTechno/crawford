@@ -8,7 +8,7 @@ Just install via Composer:
 composer require superdupercybertechno/crawford
 ```
 
-... add the driver to `app/filesystem.php`...:
+... add the driver to `app/filesystems.php`...:
 
 ```
 'scaleway' => [
@@ -23,10 +23,10 @@ composer require superdupercybertechno/crawford
 ... and finally add the credentials to `.env`:
 
 ```
-SCALEWAY_OBJECT_STORAGE_KEY=
-SCALEWAY_OBJECT_STORAGE_SECRET=
-SCALEWAY_OBJECT_STORAGE_REGION=
-SCALEWAY_OBJECT_STORAGE_BUCKET=
+SCALEWAY_OBJECT_STORAGE_KEY=[your key]
+SCALEWAY_OBJECT_STORAGE_SECRET=[your secret]
+SCALEWAY_OBJECT_STORAGE_REGION=[your region]
+SCALEWAY_OBJECT_STORAGE_BUCKET=[your bucket name]
 ```
 
 At this point you should be good to go!
