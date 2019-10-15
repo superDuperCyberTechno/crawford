@@ -18,9 +18,11 @@
             "superDuperCyberTechno\\Crawford\\": "src/"
         }
     },
-    "laravel": {
-        "providers": [
-            "superDuperCyberTechno\\Crawford\\"
-        ]
+    "extra": {
+        "laravel": {
+            "providers": [
+                "superDuperCyberTechno\\Crawford\\"
+            ]
+        }
     }
 }
