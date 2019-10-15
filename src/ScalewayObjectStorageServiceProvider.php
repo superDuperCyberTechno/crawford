@@ -1,6 +1,6 @@
 <?php
 
-namespace superDuperCyberTechno\ScalewayObjectStorage;
+namespace superDuperCyberTechno\Crawford;
 
 use Storage;
 use Aws\S3\S3Client;
