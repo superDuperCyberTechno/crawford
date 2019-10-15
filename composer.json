@@ -2,7 +2,7 @@
     "name": "superdupercybertechno/scaleway-object-storage",
     "description": "Adds the Scaleway Object Storage as a file system driver for Laravel",
     "type": "laravel-package",
-    "license": "Unlicense",
+    "license": "The Unlicense",
     "authors": [
         {
             "name": "superDuperCyberTechno",
