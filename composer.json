@@ -1,5 +1,5 @@
 {
-    "name": "superdupercybertechno/scaleway-object-storage",
+    "name": "superdupercybertechno/crawford",
     "description": "Adds the Scaleway Object Storage as a file system driver for Laravel",
     "type": "laravel-package",
     "license": "The Unlicense",
@@ -12,7 +12,7 @@
     "require": {}
     "autoload": {
         "psr-4": {
-            "superDuperCyberTechno\\ScalewayObjectStorage\\": "src/"
+            "superDuperCyberTechno\\Crawford\\": "src/"
         }
     }
 }
