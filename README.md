@@ -1,5 +1,5 @@
 # crawford
-### AKA _Scaleway Object Storage File System Driver for Laravel_
+#### AKA _Scaleway Object Storage File System Driver for Laravel_
 A simple extension that adds the [Scaleway Object Storage](https://www.scaleway.com/en/docs/object-storage-feature/) as a file system extension to Laravel.
 
 Just install via Composer:
